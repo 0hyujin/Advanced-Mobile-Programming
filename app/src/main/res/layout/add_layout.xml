@@ -7,9 +7,9 @@
 
 
     <Button
-        android:id="@+id/addBack"
+        android:id="@+id/messageBack"
         android:layout_width="14dp"
-        android:layout_height="14dp"
+        android:layout_height="20dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="32dp"
         android:background="@drawable/productback"
@@ -96,7 +96,7 @@
         android:background="@drawable/addcostview"
         app:layout_constraintStart_toStartOf="@+id/textView2"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-       />
+        />
 
     <EditText
         android:id="@+id/editTextText3"
